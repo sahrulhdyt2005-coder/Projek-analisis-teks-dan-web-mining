@@ -1,4 +1,11 @@
 # Projek-analisis-teks-dan-web-mining
+Tugas akhir Data mining pertemuan 11
+Kelompok 4:
+ - Alfawaid Dhabbiyyish Ashahabi (241011402862)
+ - Andika Septa Nugraha (241011401784)
+ - Aska Agniya Marasabessy (241011401338)
+ - Muhamad Abizar Al Ghifari (241011403265)
+ - Sahrul Hidayat (241011401344)
 ## Analisis teks
 Analisis teks adalah proses dalam menggali informasi, pola, dan pengetahuan dari data yang masih berbentuk teks. data teks ini termasuk kedalam data yang tidak terstruktur. Dewasa ini, jumlah data teks yang berada di internet semakin meningkat, seperti pada email, media sosial, artikel berita, forum diskusi, hingga dokumen digital. Oleh karena itu, analisis teks menjadi teknik pemrosesan yang banyak digunakan untuk mengolah informasi agar dapat menghasilkan informasi yang relevan dan berguna. 
 Dalam proses menganalisis teks, terdapat beberapa tahapan, seperti: memperoleh data teks yang akan dianalisis/dataset. Selanjutnya akan dilakukan preprocessing(yaitu tahap membersihkan data dari karakter yang tidak diperlukan seperti tanda baca, angka, simbol, dan kata-kata yang tidak memiliki makna penting(stopword). Setelah data sudah dibersihkan, teks akan diubah menjadi bentuk angka melalui proses ekstraksi fitur, misalnya menggunakan metode TF-IDF(Term Frequency–Inverse Document Frequency). Data berupa angka tersebut kemudian akan digunakan untuk di training dan membangun model dengan menggunakan algoritma machine learning sehingga dapat melakukan klasifikasi atau prediksi terhadap data baru yang akan masuk.
